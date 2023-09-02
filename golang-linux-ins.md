@@ -11,12 +11,6 @@ abstract: ""
 
 在Linux上安装golang
 
-
-<!--more-->
-
-
-在Linux上安装golang
-
 <!--more-->
 
 懒人必备

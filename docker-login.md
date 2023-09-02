@@ -13,13 +13,5 @@ docker默认登录仓库为docker hub
 
 输入`docker -u name -p passwd`登录
 
-
-<!--more-->
-
-
-docker默认登录仓库为docker hub
-
-输入`docker -u name -p passwd`登录
-
 <!--more-->
 

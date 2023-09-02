@@ -2,10 +2,12 @@
 title: git stash的使用
 name: git-stash-tutorial
 date: 2021-07-24 21:12:28
+id: 0
 tags: [git]
 categories: [git]
-abstract: 
+abstract: ""
 ---
+
 git命令`stash`(贮藏)的使用
 
 <!--more-->

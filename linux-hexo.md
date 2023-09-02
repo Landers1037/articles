@@ -17,18 +17,6 @@ abstract: ""
 wget -qO- https://raw.github.com/creationix/nvm/master/install.sh | sh
 ```
 
-
-<!--more-->
-
-
-## ubuntu18.04
-
-### 安装nvm
-
-```bash
-wget -qO- https://raw.github.com/creationix/nvm/master/install.sh | sh
-```
-
 <!--more-->
 
 ### 安装node js

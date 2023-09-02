@@ -20,21 +20,6 @@ def connect(self):
     self.cursor = self.db.cursor()
 ```
 
-## 
-<!--more-->
-
-
-#### Python使用psycopg2库对postgresql数据库进行连接
-
-连接数据库
-
-```python
-def connect(self):
-    #连接数据库
-	self.db = psycopg2.connect(host='localhost',user='postgres',password='123456',database='db1',port='5432')
-    self.cursor = self.db.cursor()
-```
-
 ## <!--more-->对数据库进行操作
 
 ### 建表

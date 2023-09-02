@@ -18,19 +18,6 @@ sql = 'CREATE DATABASE spiders DEFAULT CHARACTER SET utf-8'
 cursor.execute(sql)
 ```
 
-
-<!--more-->
-
-
-# pymysql操作
-
-## 创建新的数据库
-
-```python
-sql = 'CREATE DATABASE spiders DEFAULT CHARACTER SET utf-8'
-cursor.execute(sql)
-```
-
 <!--more-->
 
 ## 创建新的表

@@ -11,12 +11,6 @@ abstract: ""
 
 常见的网络协议TCP/UDP，pop3，imap，smtp，ftp
 
-
-<!--more-->
-
-
-常见的网络协议TCP/UDP，pop3，imap，smtp，ftp
-
 <!--more-->
 
 ## tcp/ip

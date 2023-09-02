@@ -15,16 +15,6 @@ abstract: ""
 sudo apt install mysql-server
 ```
 
-
-<!--more-->
-
-
-# ubuntu安装mysql5.7
-
-```bash
-sudo apt install mysql-server
-```
-
 <!--more-->
 
 ### 配置

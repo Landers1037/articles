@@ -11,12 +11,6 @@ abstract: ""
 
 github源代码：[github](https://github.com/Landers1037/PySpider/tree/master/%E5%A4%A7%E5%AD%A6%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E5%88%86%E6%95%B0%E7%BA%BF)
 
-## 蜘蛛部分
-<!--more-->
-
-
-github源代码：[github](https://github.com/Landers1037/PySpider/tree/master/%E5%A4%A7%E5%AD%A6%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E5%88%86%E6%95%B0%E7%BA%BF)
-
 ## 蜘蛛部分<!--more-->
 
 ```python

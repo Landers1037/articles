@@ -11,12 +11,6 @@ abstract: ""
 
 Python的文件读写IO操作
 
-
-<!--more-->
-
-
-Python的文件读写IO操作
-
 <!--more-->
 
 ## IO读写操作

@@ -14,15 +14,6 @@ abstract: ""
 
 填坑
 
-
-<!--more-->
-
-
-在使用更新pip的时候遇到一些问题
-比如`cannot import module name sysconfig`
-
-填坑
-
 <!--more-->
 
 ### 问题一

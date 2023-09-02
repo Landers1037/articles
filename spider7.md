@@ -11,12 +11,6 @@ abstract: ""
 
 # 哔哩哔哩番剧榜单
 
-源代码地址 [github](https://github.com/Landers1037/PySpider/tree/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%95%AA%E5%89%A7%E6%A6%9C%E5%8D%95/bilibili)
-<!--more-->
-
-
-# 哔哩哔哩番剧榜单
-
 源代码地址 [github](https://github.com/Landers1037/PySpider/tree/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%95%AA%E5%89%A7%E6%A6%9C%E5%8D%95/bilibili)<!--more-->
 
 ## 分析网页源码

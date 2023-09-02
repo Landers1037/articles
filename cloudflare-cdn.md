@@ -13,14 +13,6 @@ abstract: ""
 
 在域名商处申请域名，绑定自己的服务器ip地址
 如果是对GitHub Pages进行加速，使用CNAME记录，添加自己的Github.io地址
-进入dns管理，等待后续操作
-<!--more-->
-
-
-#### 申请域名
-
-在域名商处申请域名，绑定自己的服务器ip地址
-如果是对GitHub Pages进行加速，使用CNAME记录，添加自己的Github.io地址
 进入dns管理，等待后续操作<!--more-->
 
 #### 注册cloufalre

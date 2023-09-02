@@ -11,12 +11,6 @@ abstract: ""
 
 Go实现通过linux信号量通信
 
-
-<!--more-->
-
-
-Go实现通过linux信号量通信
-
 <!--more-->
 
 ## linux 信号

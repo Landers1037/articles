@@ -11,12 +11,6 @@ abstract: ""
 
 # python图片资源的处理
 
-## 转化为png.py文件加载
-<!--more-->
-
-
-# python图片资源的处理
-
 ## 转化为png.py文件加载<!--more-->
 
 ```python

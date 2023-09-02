@@ -11,12 +11,6 @@ abstract: ""
 
 Linux的awk指令 变量续
 
-
-<!--more-->
-
-
-Linux的awk指令 变量续
-
 <!--more-->
 
 ## 变量续

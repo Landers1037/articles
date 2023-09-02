@@ -13,14 +13,6 @@ abstract: ""
 因为大多数的linux服务器上都依赖了python2.7版本的python环境作为其系统环境，所以在安装python3的时候需要将python3版本特别注明与本地的python2.7区分开。
 此次讨论的问题不在python2和python3的版本冲突，而是多个python3的版本共存
 
-
-<!--more-->
-
-
-**解决服务器上的多版本python共存问题**
-因为大多数的linux服务器上都依赖了python2.7版本的python环境作为其系统环境，所以在安装python3的时候需要将python3版本特别注明与本地的python2.7区分开。
-此次讨论的问题不在python2和python3的版本冲突，而是多个python3的版本共存
-
 <!--more-->
 
 ### 问题

@@ -11,12 +11,6 @@ abstract: ""
 
 # 环境：Python3 
 
-保存为json和csv文件
-<!--more-->
-
-
-# 环境：Python3 
-
 保存为json和csv文件<!--more-->
 
 ```python

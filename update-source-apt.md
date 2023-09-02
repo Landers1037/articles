@@ -15,16 +15,6 @@ abstract: ""
 sudo apt-get update
 ```
 
-
-<!--more-->
-
-
-# 首次安装完建议先更新源
-
-```bash
-sudo apt-get update
-```
-
 <!--more-->备份源列表
 
 ```bash

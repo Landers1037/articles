@@ -2,10 +2,12 @@
 title: vmware下配置NAT模式静态ip
 name: vmware-nat-static
 date: 2022-01-27 14:11:33
+id: 0
 tags: [linux]
 categories: [linux]
-abstract: 
+abstract: ""
 ---
+
 使用Vmware创建Ubuntu虚拟机时，通过`NAT`模式配置静态IP
 
 <!--more-->

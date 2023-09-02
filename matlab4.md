@@ -20,21 +20,6 @@ sys_param = SystemParaDef();
 input_data = [0 1 0 0 1 0 1 1 0 0 1 1 1 0 0 1 0 1 0 1];
 ```
 
-
-<!--more-->
-
-
-```matlab
-clear
-close all
-
-%%%%% 参数定义
-%  系统参数定义
-sys_param = SystemParaDef();
-%  输入的数据流
-input_data = [0 1 0 0 1 0 1 1 0 0 1 1 1 0 0 1 0 1 0 1];
-```
-
 <!--more-->
 
 ```matlab

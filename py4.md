@@ -9,10 +9,6 @@ abstract: ""
 ---
 
 
-# 常用的python对于字符串处理
-<!--more-->
-
-
 # 常用的python对于字符串处理<!--more-->
 
 ## .format

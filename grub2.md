@@ -14,15 +14,6 @@ abstract: ""
 引导界面太丑美化一下
 
 美化包下载：[链接](https://www.gnome-look.org)
-
-<!--more-->
-
-
-## 用于windows与ubuntu的双系统
-
-引导界面太丑美化一下
-
-美化包下载：[链接](https://www.gnome-look.org)
 <!--more-->
 
 下载到系统后解压

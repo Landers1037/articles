@@ -13,14 +13,6 @@ abstract: ""
 
 ## Chrome ，selenium
 
-### 获取浏览器的网页信息
-<!--more-->
-
-
-# 测试工具：
-
-## Chrome ，selenium
-
 ### 获取浏览器的网页信息<!--more-->
 
 ```python

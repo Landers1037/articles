@@ -11,12 +11,6 @@ abstract: ""
 
 Node.js里的`fs`模块常用api
 
-
-<!--more-->
-
-
-Node.js里的`fs`模块常用api
-
 <!--more-->
 
 ### 打开文件

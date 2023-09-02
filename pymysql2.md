@@ -21,22 +21,6 @@ print(str.join(data))
 # 输出结果应为1,2,3
 ```
 
-## 
-<!--more-->
-
-
-# 字符串操作基础
-
-## join()方法
-
-```python
-str.join(data) # 常用来拼接，指定data数据用什么str连接
-data = {"1","2","3"}
-str = ','
-print(str.join(data))
-# 输出结果应为1,2,3
-```
-
 ## <!--more-->format()方法
 
 ```python

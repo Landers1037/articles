@@ -13,14 +13,6 @@ abstract: ""
 
 由于flask-restful是无状态的api，所以不能简单的记住状态信息保存登录状态，于是不能使用flask-login模块。
 
-
-<!--more-->
-
-
-在前后端分离的项目中，要实现登录状态可以使用session或token请求头的方式
-
-由于flask-restful是无状态的api，所以不能简单的记住状态信息保存登录状态，于是不能使用flask-login模块。
-
 <!--more-->
 
 使用token请求头的方式完成登录验证

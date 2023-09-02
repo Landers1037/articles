@@ -9,10 +9,6 @@ abstract: ""
 ---
 
 
-## ssh连接sd卡启动的linux系统
-<!--more-->
-
-
 ## ssh连接sd卡启动的linux系统<!--more-->
 
 ```bash

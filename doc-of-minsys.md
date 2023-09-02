@@ -7,8 +7,6 @@ tags: [最小系统]
 categories: []
 abstract: ""
 ---
-<code>Sorry</code>该文章暂无概述💊
-<!--more-->
 
 
 [七段数码管平移](https://www.liaorenjie.top/Landers/2018/674.html) [UART串口](https://www.liaorenjie.top/Landers/2018/746.html) [16位按键开关](https://www.liaorenjie.top/Landers/2018/700.html) [16位led流水灯](https://www.liaorenjie.top/Landers/2018/712.html) [贪吃蛇](https://www.liaorenjie.top/Landers/2018/739.html) [AD&DA](https://www.liaorenjie.top/Landers/2018/768.html)

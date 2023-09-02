@@ -11,12 +11,6 @@ abstract: ""
 
 # 环境：
 
-SQL server	Postgresql
-<!--more-->
-
-
-# 环境：
-
 SQL server	Postgresql<!--more-->
 
 ## 实验一：（postgre）

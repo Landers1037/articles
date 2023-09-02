@@ -2,10 +2,12 @@
 title: nginx运维笔记4
 name: nginx-om4
 date: 2021-07-23 21:44:03
+id: 0
 tags: [nginx]
 categories: [nginx]
-abstract: 
+abstract: ""
 ---
+
 nginx运维笔记4 - nginx的主题配置
 
 <!--more-->

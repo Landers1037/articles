@@ -11,12 +11,6 @@ abstract: ""
 
 Redis的使用备份记录
 
-
-<!--more-->
-
-
-Redis的使用备份记录
-
 <!--more-->
 
 Redis是一个高效的键值对非关系型数据库

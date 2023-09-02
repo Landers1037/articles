@@ -7,8 +7,6 @@ tags: [暂时没有标签]
 categories: []
 abstract: ""
 ---
-<code>Sorry</code>该文章暂无概述💊
-<!--more-->
 
 
 并不是所有的属性都可以继承

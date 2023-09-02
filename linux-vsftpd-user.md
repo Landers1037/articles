@@ -23,24 +23,6 @@ anonymous_enable=YES //开启匿名
 #anon_other_write_enable=YES
 ```
 
-### 
-<!--more-->
-
-
-## Centos7
-
-### 禁用匿名用户
-
-```yaml
-//安全起见禁用匿名用户上传权限和写权限
-nano /etc/vsftpd/vsftpd.conf
-anonymous_enable=YES //开启匿名
-//禁用匿名上传，写权限，但是可以下载
-#anon_upload_enable=YES
-#anon_mkdir_write_enable=YES
-#anon_other_write_enable=YES
-```
-
 ### <!--more-->添加用户
 
 ```bash

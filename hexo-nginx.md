@@ -13,14 +13,6 @@ abstract: ""
 
 ## 环境：centos7.3
 
-
-<!--more-->
-
-
-# 为linux学习打基础
-
-## 环境：centos7.3
-
 <!--more-->
 
 ## 	    阿里云ECS

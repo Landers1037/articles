@@ -13,14 +13,6 @@ abstract: ""
 
 环境：Windows10 node.js
 
-
-<!--more-->
-
-
-如何使用gitbook
-
-环境：Windows10 node.js
-
 <!--more-->
 
 ### 使用

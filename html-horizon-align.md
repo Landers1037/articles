@@ -16,17 +16,6 @@ abstract: ""
     <input class="btn" type="submit" name="submit" value="发布">
 ```
 
-
-<!--more-->
-
-
-假设行内有多个元素，需要其水平对齐
-
-```html
-    <input type="text" name="mess" autocomplete="off" required>
-    <input class="btn" type="submit" name="submit" value="发布">
-```
-
 <!--more-->
 
 只需要设置垂直属性

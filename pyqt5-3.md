@@ -15,16 +15,6 @@ abstract: ""
 
 QDialog类的子类主要有QMessageBox，QFileDialog，QColorDialog，QFontDialog，QInputDialog等
 
-qt库中自带的对话框为了提高人机交互的效率
-<!--more-->
-
-
-# Pyqt5环境
-
-## QDialog
-
-QDialog类的子类主要有QMessageBox，QFileDialog，QColorDialog，QFontDialog，QInputDialog等
-
 qt库中自带的对话框为了提高人机交互的效率<!--more-->
 
 ## QMessagebox

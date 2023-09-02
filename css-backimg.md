@@ -12,13 +12,6 @@ abstract: ""
 使用css为div块设置背景图片
 `background: url(/img/0.png)`
 
-
-<!--more-->
-
-
-使用css为div块设置背景图片
-`background: url(/img/0.png)`
-
 <!--more-->
 
 使用`background`属性

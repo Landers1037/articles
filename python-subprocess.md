@@ -11,12 +11,6 @@ abstract: ""
 
 使用`subprocess`执行命令
 
-
-<!--more-->
-
-
-使用`subprocess`执行命令
-
 <!--more-->
 
 linux的bash命令和windows的cmd命令执行方式差不多

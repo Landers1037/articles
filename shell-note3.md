@@ -3,15 +3,10 @@ title: shell学习笔记3
 name: shell-note3
 date: 2021-05-23 13:11:38
 id: 0
-tags: [shell]
+tags: [shell,linux]
 categories: [shell]
 abstract: ""
 ---
-
-`trap`命令和`watch`命令的使用
-
-
-<!--more-->
 
 `trap`命令和`watch`命令的使用
 

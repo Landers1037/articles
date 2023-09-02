@@ -11,12 +11,6 @@ abstract: ""
 
 Python的深拷贝和浅拷贝
 
-
-<!--more-->
-
-
-Python的深拷贝和浅拷贝
-
 <!--more-->
 
 ### 普通的对象传值

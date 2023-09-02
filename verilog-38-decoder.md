@@ -27,28 +27,6 @@ end
 ```
 
 
-​    
-<!--more-->
-
-
-```verilog
-module yima38(A,en,Q
-    );
-input [2:0]A;
-input en;
-output reg[7:0] Q;
-integer k;
-always@(A,en)begin
-Q=8'b1111_1111;
-for(k=0;k<=7;k=k+1)
-   if((en==1)&&A==k)
-	   Q[k]=0;
-	else
-      Q[k]=1;
-end		
-```
-
-
 ​    <!--more-->
 ```verilog
 endmodule

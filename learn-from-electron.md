@@ -11,12 +11,6 @@ abstract: ""
 
 在学习Electron中遇到的问题总结
 
-
-<!--more-->
-
-
-在学习Electron中遇到的问题总结
-
 <!--more-->
 
 ## 设计运行问题

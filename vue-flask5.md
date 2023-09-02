@@ -11,12 +11,6 @@ abstract: ""
 
 使用vuex来存储管理生成的token信息用于认证
 
-
-<!--more-->
-
-
-使用vuex来存储管理生成的token信息用于认证
-
 <!--more-->
 
 ### vuex

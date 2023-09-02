@@ -11,12 +11,6 @@ abstract: ""
 
 Linux中常见的网络请求处理，select和epoll
 
-
-<!--more-->
-
-
-Linux中常见的网络请求处理，select和epoll
-
 <!--more-->
 
 ## 请求处理方式

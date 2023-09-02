@@ -9,10 +9,6 @@ abstract: ""
 ---
 
 
-## PIL库
-<!--more-->
-
-
 ## PIL库<!--more-->
 
 ```python

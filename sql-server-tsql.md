@@ -11,12 +11,6 @@ abstract: ""
 
 # Tsql语句属于微软为sql server设计的高级sql语句
 
-## 新建查询
-<!--more-->
-
-
-# Tsql语句属于微软为sql server设计的高级sql语句
-
 ## 新建查询<!--more-->
 
 ## 变量赋值

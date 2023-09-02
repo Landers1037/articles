@@ -12,13 +12,6 @@ abstract: ""
 块元素需要在加载时使用动画可以使用JavaScript实现
 原生js写法繁琐，使用jQuery实现
 
-
-<!--more-->
-
-
-块元素需要在加载时使用动画可以使用JavaScript实现
-原生js写法繁琐，使用jQuery实现
-
 <!--more-->
 
 首先引入jQuery

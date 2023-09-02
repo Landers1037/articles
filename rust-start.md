@@ -2,10 +2,12 @@
 title: rust环境配置
 name: rust-start
 date: 2021-08-06 11:43:16
+id: 0
 tags: [rust]
 categories: [rust]
-abstract: 
+abstract: ""
 ---
+
 Mac安装`rust`环境
 
 <!--more-->

@@ -7,14 +7,6 @@ tags: [python,pyqt5,学习笔记]
 categories: []
 abstract: ""
 ---
-
-
-# 环境：python3
-
-## 绝对布局
-
-![k8RZxP.webp](/images/pyqt5-2-1.webp)
-<!--more-->
 # 环境：python3
 
 ## 绝对布局

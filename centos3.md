@@ -17,18 +17,6 @@ abstract: ""
 sudo yum install -y vsftpd #安装
 ```
 
-
-<!--more-->
-
-
-# Centos7+vsftpd
-
-## 安装
-
-```bash
-sudo yum install -y vsftpd #安装
-```
-
 <!--more-->
 
 ## 配置

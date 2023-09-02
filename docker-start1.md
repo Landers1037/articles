@@ -2,10 +2,12 @@
 title: docker入门教程1
 name: docker-start1
 date: 2021-07-20 21:31:42
+id: 0
 tags: [docker]
 categories: [docker]
-abstract: 
+abstract: ""
 ---
+
 docker入门 - 在Goland中使用docker
 
 ![](/images/docker-start1-4.png)

@@ -11,12 +11,6 @@ abstract: ""
 
 Linux的awk命令，初级使用
 
-
-<!--more-->
-
-
-Linux的awk命令，初级使用
-
 <!--more-->
 
 ## awk

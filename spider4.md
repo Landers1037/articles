@@ -11,12 +11,6 @@ abstract: ""
 
 # Python3.7 
 
-github源码地址：[github](https://github.com/Landers1037/PySpider/tree/master/%E4%BA%AC%E4%B8%9C%E5%95%86%E5%9F%8E%E5%95%86%E5%93%81%E7%88%AC%E5%8F%96/jd)
-<!--more-->
-
-
-# Python3.7 
-
 github源码地址：[github](https://github.com/Landers1037/PySpider/tree/master/%E4%BA%AC%E4%B8%9C%E5%95%86%E5%9F%8E%E5%95%86%E5%93%81%E7%88%AC%E5%8F%96/jd)<!--more-->
 
 ## 蜘蛛部分

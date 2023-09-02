@@ -11,12 +11,6 @@ abstract: ""
 
 # scrapy+selenium
 
-源代码地址 [github](https://github.com/Landers1037/PySpider/tree/master/bilibili%E9%AC%BC%E7%95%9C%E8%A7%86%E9%A2%91%E8%AF%A6%E6%83%85%E7%88%AC%E5%8F%96/kichiku)
-<!--more-->
-
-
-# scrapy+selenium
-
 源代码地址 [github](https://github.com/Landers1037/PySpider/tree/master/bilibili%E9%AC%BC%E7%95%9C%E8%A7%86%E9%A2%91%E8%AF%A6%E6%83%85%E7%88%AC%E5%8F%96/kichiku)<!--more-->
 
 ## 网页解析

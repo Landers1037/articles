@@ -9,9 +9,7 @@ abstract: ""
 ---
 How many choice & chance do I have in my life?
 
-
 <!--more-->
-
 
 ## 把握当下
 也许绝大部分人的一生都不会是一帆风顺的

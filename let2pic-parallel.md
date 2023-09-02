@@ -18,19 +18,6 @@ markdown中使用html标签让两张图片并排显示
 </tr></table>
 ```
 
-
-<!--more-->
-
-
-markdown中使用html标签让两张图片并排显示
-
-```html
-<table><tr>
-<td><img src=pic1.png border=0></td>
-<td><img src=pic2.png border=0></td>
-</tr></table>
-```
-
 <!--more-->
 
 当使用本地图片资源时满足markdown语法

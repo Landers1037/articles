@@ -12,13 +12,6 @@ abstract: ""
 使用python获取系统的状态信息
 依赖`os`，`psutil`库
 
-
-<!--more-->
-
-
-使用python获取系统的状态信息
-依赖`os`，`psutil`库
-
 <!--more-->
 
 ```python

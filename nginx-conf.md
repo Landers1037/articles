@@ -16,17 +16,6 @@ abstract: ""
 进入`cd /etc/nginx`
 
 编辑配置文件`vi nginx.conf`
-
-<!--more-->
-
-
-# 在linux上运行nginx
-
-## 在nginx下配置静态网站
-
-进入`cd /etc/nginx`
-
-编辑配置文件`vi nginx.conf`
 <!--more-->
 
 ```yaml

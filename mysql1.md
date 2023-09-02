@@ -18,19 +18,6 @@ Enter password: ********
 ERROR 1045 (28000): Access denied for user
 ```
 
-
-<!--more-->
-
-
-# 在安装mysql中遇到各种问题
-
-## cmd输入密码无法连接数据库
-
-```cmd
-Enter password: ********
-ERROR 1045 (28000): Access denied for user
-```
-
 <!--more-->
 设置数据库的配置文件my.ini
 

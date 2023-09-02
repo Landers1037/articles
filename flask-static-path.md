@@ -13,14 +13,6 @@ Flask处理静态文件
 
 修改配置参数`static_path_for`和`static_folder`
 
-
-<!--more-->
-
-
-Flask处理静态文件
-
-修改配置参数`static_path_for`和`static_folder`
-
 <!--more-->
 
 ### flask里的static目录

@@ -12,13 +12,6 @@ abstract: ""
 在服务器上运行python定时脚本
 基于`python3.7  centos7.3`
 
-
-<!--more-->
-
-
-在服务器上运行python定时脚本
-基于`python3.7  centos7.3`
-
 <!--more-->
 
 #### 定时脚本的写法

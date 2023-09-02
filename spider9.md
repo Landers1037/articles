@@ -10,11 +10,6 @@ abstract: ""
 
 
 分析网页结构后，发现年度电影数据最早到1950年，使用一个for循环对url进行构造
-源码地址 [github](https://github.com/Landers1037/PySpider/tree/master/%E7%83%82%E7%95%AA%E8%8C%84%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E6%A6%9C%E5%8D%95/rottentomatoes)
-<!--more-->
-
-
-分析网页结构后，发现年度电影数据最早到1950年，使用一个for循环对url进行构造
 源码地址 [github](https://github.com/Landers1037/PySpider/tree/master/%E7%83%82%E7%95%AA%E8%8C%84%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E6%A6%9C%E5%8D%95/rottentomatoes)<!--more-->
 
 ## 蜘蛛部分

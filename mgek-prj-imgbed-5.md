@@ -13,14 +13,6 @@ abstract: ""
 
 utils工具包设计
 
-
-<!--more-->
-
-
-**Mgek项目**-ImgBed第五期
-
-utils工具包设计
-
 <!--more-->
 
 Utils工具包包含本项目需要额外使用的功能函数

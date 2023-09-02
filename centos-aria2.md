@@ -20,21 +20,6 @@ yum -y install aria2
 aria2c -v
 ```
 
-### 
-<!--more-->
-
-
-### 安装源
-
-```sh
-#安装epel源
-yum -y install epel-release
-#安装aria2
-yum -y install aria2
-#查看aria2版本
-aria2c -v
-```
-
 ### <!--more-->配置
 
 ```bash

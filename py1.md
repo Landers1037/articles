@@ -18,19 +18,6 @@ pip install ***
 ```
 
 使用这种方法安装库的前提是，python的路径已经安装在了环境变量里。python的所有第三方库都在安装目录的Lib文件夹内
-
-<!--more-->
-
-
-# 环境：Python 3.7
-
-## 库的安装和使用
-
-```shell
-pip install ***
-```
-
-使用这种方法安装库的前提是，python的路径已经安装在了环境变量里。python的所有第三方库都在安装目录的Lib文件夹内
 <!--more-->
 有的时候使用pip安装会出现各种环境错误，这个时候使用离线库文件.whl安装
 第三方python库：[点击进入](https://www.lfd.uci.edu/~gohlke/pythonlibs/)

@@ -9,8 +9,6 @@ abstract: ""
 ---
 <code>Sorry</code>该文章暂无概述💊
 <!--more-->
-<code>Sorry</code>该文章暂无概述💊
-<!--more-->
 
 
 ##### **随机模拟的基本方法又称为蒙特卡罗（Monte Carlo）方法。**

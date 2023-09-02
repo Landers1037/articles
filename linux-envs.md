@@ -2,10 +2,12 @@
 title: linux下的环境变量
 name: linux-envs
 date: 2021-07-22 22:59:37
-tags: [linux]
+id: 0
+tags: [linux,shell]
 categories: [linux]
-abstract: 
+abstract: ""
 ---
+
 linux下的`/etc/profile`,  `bashrc`, `bash_profile`
 
 在linux环境下配置环境变量文件的作用和差异

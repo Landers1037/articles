@@ -22,23 +22,6 @@ abstract: ""
 得到如下文件夹 gcc-linaro-6.1.1-2016.08-x86_64_arm-linux-gnueabihf
 ```
 
-
-<!--more-->
-
-
-# 环境ubuntu16.04
-
-## 下载gcc编译器
-
-[官网地址](https://releases.linaro.org/components/toolchain/binaries/6.1-2016.08/arm-linux-gnueabihf/gcc-linaro-6.1.1-2016.08-x86_64_arm-linux-gnueabihf.tar.xz)
-
-## 放到ubuntu的下载目录下
-
-```bash
-#右键 提取到此处
-得到如下文件夹 gcc-linaro-6.1.1-2016.08-x86_64_arm-linux-gnueabihf
-```
-
 <!--more-->
 
 ## 新建一个文件夹放置gcc

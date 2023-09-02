@@ -19,20 +19,6 @@ systemctl stop firewall.service #停止服务
 systemctl disable firewall.service #禁用服务，重启生效
 ```
 
-#### 
-<!--more-->
-
-
-<font size=3>centos7开始使用firewalld服务作为防火墙</font>
-
-#### 启动与停止
-
-```bash
-systemctl start firewalld.service #开启服务
-systemctl stop firewall.service #停止服务
-systemctl disable firewall.service #禁用服务，重启生效
-```
-
 #### <!--more-->查看开启的端口
 
 `firewall-cmd --list-ports`

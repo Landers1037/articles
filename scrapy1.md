@@ -17,18 +17,6 @@ abstract: ""
 'str' object has no attribute 'iter'
 ```
 
-
-<!--more-->
-
-
-## 通用爬虫爬取页面深层链接
-
-出现以下错误
-
-```cmd
-'str' object has no attribute 'iter'
-```
-
 <!--more-->查看css选择器的部分
 
 ```python

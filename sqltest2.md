@@ -13,14 +13,6 @@ abstract: ""
 
 汉诺塔简介：[参考](https://blog.csdn.net/qq_37873310/article/details/80461767)
 
-使用sql server的tsql语句 利用存储过程实现
-<!--more-->
-
-
-## 使用Tsql语句描述汉诺塔
-
-汉诺塔简介：[参考](https://blog.csdn.net/qq_37873310/article/details/80461767)
-
 使用sql server的tsql语句 利用存储过程实现<!--more-->
 
 ```sql

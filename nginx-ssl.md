@@ -11,12 +11,6 @@ abstract: ""
 
 在nginx上开启ssl，完成网站的http跳转https
 
-
-<!--more-->
-
-
-在nginx上开启ssl，完成网站的http跳转https
-
 <!--more-->
 
 ### 申请ssl证书

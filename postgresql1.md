@@ -7,16 +7,6 @@ tags: [postgresql]
 categories: []
 abstract: ""
 ---
-
-
-# PostgreSQL
-
-postgresql是目前使用最多的功能最完善的开源数据库
-拥有比mysql更加友好的操作体验
-
-下载：[官网](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-
-<!--more-->
 # PostgreSQL
 
 postgresql是目前使用最多的功能最完善的开源数据库

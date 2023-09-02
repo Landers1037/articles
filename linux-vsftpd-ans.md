@@ -19,20 +19,6 @@ anon_mkdir_write_enable=YES
 anon_other_write_enable=YES #这句话不加匿名用户不能重命名和修改子目录
 ```
 
-
-<!--more-->
-
-
-## 开启匿名上传下载
-
-```yaml
-anon_upload_enable=YES
-# Uncomment this if you want the anonymous FTP user to be able to create
-# new directories.
-anon_mkdir_write_enable=YES
-anon_other_write_enable=YES #这句话不加匿名用户不能重命名和修改子目录
-```
-
 <!--more-->
 
 ## 解决匿名用户上传后不能直接下载

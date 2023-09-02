@@ -12,13 +12,6 @@ abstract: ""
 docker的push有许多版本
 当前只建立在push到远程的docker hub仓库
 
-
-<!--more-->
-
-
-docker的push有许多版本
-当前只建立在push到远程的docker hub仓库
-
 <!--more-->
 
 首先docker desktop要登录到docker hub上

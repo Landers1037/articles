@@ -2,10 +2,12 @@
 title: minikube学习
 name: minikube-start
 date: 2021-08-02 23:05:14
-tags: [kubernetes docker]
-categories: [kubernetes docker]
-abstract: 
+id: 0
+tags: [kubernetes,docker]
+categories: [kubernetes]
+abstract: ""
 ---
+
 **Kubernetes**实战 使用**minikube**创建集群
 
 <!--more-->

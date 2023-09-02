@@ -10,11 +10,6 @@ abstract: ""
 
 nginx运维笔记3 - nginx的简单认证和请求体限制
 
-
-<!--more-->
-
-nginx运维笔记3 - nginx的简单认证和请求体限制
-
 <!--more-->
 
 ## nginx的简单认证

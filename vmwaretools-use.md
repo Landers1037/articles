@@ -9,8 +9,6 @@ abstract: ""
 ---
 <code>Sorry</code>该文章暂无概述💊
 <!--more-->
-<code>Sorry</code>该文章暂无概述💊
-<!--more-->
 
 
 安装VMware tools 等待虚拟机启动

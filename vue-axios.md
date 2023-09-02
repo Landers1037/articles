@@ -11,12 +11,6 @@ abstract: ""
 
 在Vue项目中使用axios
 
-
-<!--more-->
-
-
-在Vue项目中使用axios
-
 <!--more-->
 
 ## 全局引入

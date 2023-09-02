@@ -19,20 +19,6 @@ module counter10(clk_50MHZ,seg,an);
 	//seg7段译码器信号端 an4选择器信号端
 ```
 
-​    	
-<!--more-->
-
-
-```verilog
-module counter10(clk_50MHZ,seg,an);
-
-	input clk_50MHZ;
-	output [6:0]seg;
-	output [3:0]an;
-	reg  [3:0]out=0;
-	//seg7段译码器信号端 an4选择器信号端
-```
-
 ​    	<!--more-->
 ​    	
 

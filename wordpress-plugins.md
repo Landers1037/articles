@@ -9,10 +9,6 @@ abstract: ""
 ---
 
 
-wordpress实用插件 
-<!--more-->
-
-
 wordpress实用插件 <!--more-->
 
 1.代码插入高亮插件 ![](https://s1.ax1x.com/2018/03/11/9WlY2n.png)   

@@ -11,12 +11,6 @@ abstract: ""
 
 python多线程与进程
 
-
-<!--more-->
-
-
-python多线程与进程
-
 <!--more-->
 
 实现的三种模式：

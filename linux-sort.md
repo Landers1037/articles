@@ -11,12 +11,6 @@ abstract: ""
 
 Linux的`sort`指令使用，排序指令
 
-
-<!--more-->
-
-
-Linux的`sort`指令使用，排序指令
-
 <!--more-->
 
 ## sort

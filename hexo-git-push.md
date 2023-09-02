@@ -15,16 +15,6 @@ abstract: ""
 yum install -y git
 ```
 
-### 创建git用户
-<!--more-->
-
-
-### 安装git
-
-```bash
-yum install -y git
-```
-
 ### 创建git用户<!--more-->
 
 ```bash

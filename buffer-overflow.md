@@ -2,10 +2,12 @@
 title: 缓冲区溢出攻击
 name: buffer-overflow
 date: 2023-09-02 06:09:28
-tags: [安全测试]
+id: 0
+tags: [安全测试, linux]
 categories: [安全测试]
-abstract: 
+abstract: ""
 ---
+
 缓冲区溢出攻击在`c`语言中的复现与原理分析
 
 <!--more-->

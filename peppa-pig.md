@@ -7,17 +7,6 @@ tags: [佩琪]
 categories: []
 abstract: ""
 ---
-
-
-祝大家猪年快乐，佩琪给你拜年了！
-
-------
-
-![](/images/peppa-pig.webp)
-
-贴出源代码，使用Python3
-
-<!--more-->
 祝大家猪年快乐，佩琪给你拜年了！
 
 ------

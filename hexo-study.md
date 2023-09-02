@@ -16,17 +16,6 @@ abstract: ""
 node.js
 
 github账户
-
-<!--more-->
-
-
-# Hexo+Github
-
-## 安装环境
-
-node.js
-
-github账户
 <!--more-->
 
 第一步：使用npm安装hexo

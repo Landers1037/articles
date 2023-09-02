@@ -19,20 +19,6 @@ location / {
         }
 ```
 
-
-<!--more-->
-
-
-Nginx服务器的location配置详解
-
-```nginx
-location / {
-        }
-	error_page 404 /404/index.html;
-            location = /404/index.html {
-        }
-```
-
 <!--more-->
 
 ### Location后面的通配符

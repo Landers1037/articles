@@ -7,15 +7,6 @@ tags: [chrome]
 categories: []
 abstract: ""
 ---
-
-
-本文转自少数派 做了适当修改
-
- _PWA(Progressive Web Apps)_是 _Google_ 最近在提的一种 _Web App_ 形态（或者如 _Wikipedia_ 所称的_“_软件开发方法_”_）。
-
-它比原生应用更轻量，但是却比现有的Web APP的功能更加丰富。
-
-<!--more-->
 本文转自少数派 做了适当修改
 
  _PWA(Progressive Web Apps)_是 _Google_ 最近在提的一种 _Web App_ 形态（或者如 _Wikipedia_ 所称的_“_软件开发方法_”_）。

@@ -7,12 +7,6 @@ tags: [verilog,下载]
 categories: []
 abstract: ""
 ---
-
-
-![](/images/notepad.webp) 
-
-
-<!--more-->
 ![](/images/notepad.webp) 
 
 

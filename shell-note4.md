@@ -3,15 +3,10 @@ title: shell学习笔记4
 name: shell-note4
 date: 2021-05-23 13:11:39
 id: 0
-tags: [shell]
+tags: [shell,linux]
 categories: []
 abstract: ""
 ---
-
- shell的字符串和数组操作
-
-
-<!--more-->
 
  shell的字符串和数组操作
 

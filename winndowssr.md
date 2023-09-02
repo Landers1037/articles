@@ -11,12 +11,6 @@ abstract: ""
 
 ### **因为政策本文不再更新**
 
-### 第一步：下载win版的shadowsocksr软件
-<!--more-->
-
-
-### **因为政策本文不再更新**
-
 ### 第一步：下载win版的shadowsocksr软件<!--more-->
 
 解压缩后放在目录下打开 ![C6W7Y6.jpg](https://s1.ax1x.com/2018/05/18/C6W7Y6.jpg) 

@@ -3,17 +3,10 @@ title: oh-my-zsh配置使用
 name: oh-my-zsh
 date: 2021-07-14 01:41:14
 id: 0
-tags: [zsh]
+tags: [zsh,shell,linux]
 categories: [zsh]
 abstract: ""
 ---
-
-在Mac上配置使用`oh-my-zsh`
-
-![](images/zsh1.png)
-
-
-<!--more-->
 
 在Mac上配置使用`oh-my-zsh`
 

@@ -11,12 +11,6 @@ abstract: ""
 
 MySQL的引擎，**InnoDB**和**MyIsam**的区别
 
-
-<!--more-->
-
-
-MySQL的引擎，**InnoDB**和**MyIsam**的区别
-
 <!--more-->
 
 数据库引擎针对的是表，即每张表所使用的引擎

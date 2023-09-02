@@ -7,13 +7,6 @@ tags: [虚拟机linux]
 categories: []
 abstract: ""
 ---
-
-
-一：安装VMware station虚拟机
-=====================
-
-
-<!--more-->
 一：安装VMware station虚拟机
 =====================
 

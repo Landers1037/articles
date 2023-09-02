@@ -3,18 +3,10 @@ title: shell学习笔记2
 name: shell-note2
 date: 2020-10-30
 id: 0
-tags: [shell]
+tags: [shell,linux]
 categories: []
 abstract: ""
 ---
-
-
-Shell学习笔记2
-
-`awk`的行列转换, `grep`高级操作
-
-
-<!--more-->
 
 
 Shell学习笔记2

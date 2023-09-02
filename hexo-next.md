@@ -13,14 +13,6 @@ abstract: ""
 
  [官网](http://theme-next.iissnan.com/)
 
-
-<!--more-->
-
-
-## hexo安装next主题
-
- [官网](http://theme-next.iissnan.com/)
-
 <!--more-->
 
 ## 主题配置

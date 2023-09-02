@@ -2,10 +2,12 @@
 title: docker入门教程2
 name: docker-start2
 date: 2021-08-17 12:14:55
+id: 0
 tags: [docker]
 categories: [docker]
-abstract: 
+abstract: ""
 ---
+
 docker入门 - 常用docker命令操作
 
 <!--more-->

@@ -13,14 +13,6 @@ abstract: ""
 
 解决docker镜像内访问本地目录的问题
 
-
-<!--more-->
-
-
-环境docker for windows
-
-解决docker镜像内访问本地目录的问题
-
 <!--more-->
 
 ### 开启共享目录

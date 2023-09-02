@@ -7,17 +7,6 @@ tags: [linux]
 categories: []
 abstract: ""
 ---
-
-
-# Xilinx-ARM-Linux-ZYNQ
-
-项目的源代码已经上传至托管平台
-
-[gitee](https://gitee.com/lrjgood/Xilinx-ARM-Linux-ZYNQ)
-
-[github](https://github.com/Landers1037/arm-linux-zybo)
-
-<!--more-->
 # Xilinx-ARM-Linux-ZYNQ
 
 项目的源代码已经上传至托管平台

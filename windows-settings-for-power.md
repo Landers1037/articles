@@ -13,14 +13,6 @@ abstract: ""
 
 ### 关闭onedrive
 
-`win+r`输入`gpedit.msc`,找到计算机配置，windows组件，onedrive，`禁用onedrive进行文件存储`
-<!--more-->
-
-
-# Windows1809
-
-### 关闭onedrive
-
 `win+r`输入`gpedit.msc`,找到计算机配置，windows组件，onedrive，`禁用onedrive进行文件存储`<!--more-->
 
 ### 关闭windows安全中心通知

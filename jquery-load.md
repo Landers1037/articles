@@ -11,12 +11,6 @@ abstract: ""
 
 使用jQuery局部刷新页面的某个div块
 
-
-<!--more-->
-
-
-使用jQuery局部刷新页面的某个div块
-
 <!--more-->
 
 使用Jquery的`load`方法

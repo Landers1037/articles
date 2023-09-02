@@ -19,20 +19,6 @@ abstract: ""
 centos不允许使用root用户登录所以终端的指令有两种用户：普通用户和root
 使用su进入root账户，输入root密码即可进行权限操作
 
-
-<!--more-->
-
-
-再也不碰linux
-
-# 安装CentOS虚拟机
-
-## 对Linux系统进行配置
-
-使用简单的命令语句
-centos不允许使用root用户登录所以终端的指令有两种用户：普通用户和root
-使用su进入root账户，输入root密码即可进行权限操作
-
 <!--more-->
 
 ### 简单的权限操作

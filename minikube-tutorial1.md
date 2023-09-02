@@ -2,10 +2,12 @@
 title: minikube学习笔记1
 name: minikube-tutorial1
 date: 2021-08-09 11:22:01
+id: 0
 tags: [kubernetes]
 categories: [kubernetes]
-abstract: 
+abstract: ""
 ---
+
 minikube学习笔记 - 简单集群的搭建
 
 <!--more-->

@@ -7,8 +7,6 @@ tags: [学习笔记,技术,最小系统]
 categories: []
 abstract: ""
 ---
-<code>Sorry</code>该文章暂无概述💊
-<!--more-->
 
 
 基于最小系统的UART实验，要求实现双板之间的串口信息通信 使用Xilinx的NEXY4板 提供两种程序代码 1.使用attribute的io函数

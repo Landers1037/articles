@@ -13,14 +13,6 @@ abstract: ""
 
 调用了官方的分享api
 
-
-<!--more-->
-
-
-使用原生js和jQuery为网页添加qq分享按钮
-
-调用了官方的分享api
-
 <!--more-->
 
 ```javascript

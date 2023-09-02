@@ -27,28 +27,6 @@ time.sleep(2)
 browser.switch_to_window(browser.window_handles[0])
 ```
 
-
-<!--more-->
-
-
-# 环境：py3.7    selenium
-
-## 选项卡的管理
-
-```python
-import time
-from selenium import webdriver
-
-browser=webdriver.Chrome()
-browser.get('https://www.baidu.com')
-browser.execute_script('window.open()')
-print(browser.window_handles)
-browser.switch_to_window(browser.window_handles[1])
-browser.get('https://www.taobao.com')
-time.sleep(2)
-browser.switch_to_window(browser.window_handles[0])
-```
-
 <!--more-->我们打开两个网页并且在两个选项卡之间切换
 解释器有一句提示
 

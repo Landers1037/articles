@@ -11,12 +11,6 @@ abstract: ""
 
 Electron的多窗口
 
-
-<!--more-->
-
-
-Electron的多窗口
-
 <!--more-->
 
 ## 多窗口

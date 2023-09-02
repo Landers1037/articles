@@ -12,11 +12,4 @@ abstract: ""
 使用python重写拼音模板生成器，意在做到高效易用
 [项目链接](https://github.com/Landers1037/pinyindemo)
 
-
-<!--more-->
-
-
-使用python重写拼音模板生成器，意在做到高效易用
-[项目链接](https://github.com/Landers1037/pinyindemo)
-
 <!--more-->

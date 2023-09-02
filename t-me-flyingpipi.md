@@ -9,10 +9,6 @@ abstract: ""
 ---
 
 
-[tg](https://t.me/flyingpipi)[博客同步更新频道](https://t.me/flyingpipi) 
-<!--more-->
-
-
 [tg](https://t.me/flyingpipi)[博客同步更新频道](https://t.me/flyingpipi) <!--more-->
 
 点击上方链接即可加入telegram通知频道接收博客最新动态

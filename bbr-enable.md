@@ -11,12 +11,6 @@ abstract: ""
 
 在CentOS系统里开启BBR加速
 
-
-<!--more-->
-
-
-在CentOS系统里开启BBR加速
-
 <!--more-->
 
 # 查看内核

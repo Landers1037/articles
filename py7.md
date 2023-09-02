@@ -18,19 +18,6 @@ import datatime
 time = datatime.datatime.now()
 ```
 
-将获取的时间格式化为字符串
-<!--more-->
-
-
-## datatime模块
-
-使用datatime模块获取系统的时间
-
-```python
-import datatime
-time = datatime.datatime.now()
-```
-
 将获取的时间格式化为字符串<!--more-->
 
 ```python

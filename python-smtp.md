@@ -12,13 +12,6 @@ abstract: ""
 python3.7实现的smtp邮件系统服务
 在python3.*里，提供了基础的邮件服务，由`smtplib`库和`email`实现
 
-
-<!--more-->
-
-
-python3.7实现的smtp邮件系统服务
-在python3.*里，提供了基础的邮件服务，由`smtplib`库和`email`实现
-
 <!--more-->
 
 我们导入需要的库，创建邮件服务

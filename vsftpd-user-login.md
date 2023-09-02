@@ -15,16 +15,6 @@ abstract: ""
 
 `firewall-cmd --list-ports`
 
-#### 检查ftp配置文件
-<!--more-->
-
-
-在安装完vsftpd之后，添加用户ftp，然后无法使用filezila登录
-
-#### 检查21端口是否开启
-
-`firewall-cmd --list-ports`
-
 #### 检查ftp配置文件<!--more-->
 
 `/etc/vsftpd/vsftpd.conf`

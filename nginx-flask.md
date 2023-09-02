@@ -18,19 +18,6 @@ pip install flask
 pip install gunicorn
 ```
 
-
-<!--more-->
-
-
-在Nginx服务器上搭建Flask站点服务
-
-### 需求
-
-```python
-pip install flask
-pip install gunicorn
-```
-
 <!--more-->
 
 ### flask配置

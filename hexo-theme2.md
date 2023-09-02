@@ -8,15 +8,6 @@ categories: []
 abstract: ""
 ---
 
-
-## 进入Google站长网站，登录自己的谷歌账号
-
-![](/images/hexo-theme2-1.webp)
-
-选择html文件，在自己的github.io网站下上传html验证文件
-
-<!--more-->
-
 ## 进入Google站长网站，登录自己的谷歌账号
 
 ![](/images/hexo-theme2-1.webp)

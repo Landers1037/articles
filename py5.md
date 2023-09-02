@@ -11,12 +11,6 @@ abstract: ""
 
 # Python的文件处理1
 
-使用with open()方法打开csv文件时出现多余空行
-<!--more-->
-
-
-# Python的文件处理1
-
 使用with open()方法打开csv文件时出现多余空行<!--more-->
 
 ```python

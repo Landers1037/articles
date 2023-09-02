@@ -2,10 +2,12 @@
 title: 使用tmux
 name: tmux-use
 date: 2021-07-28 21:13:56
-tags: [shell, linux]
-categories: [shell, linux]
-abstract: 
+id: 0
+tags: [shell,linux]
+categories: [shell,linux]
+abstract: ""
 ---
+
 结合iTerm2使用`tmux`
 
 ![](/images/tmux-use7.png)

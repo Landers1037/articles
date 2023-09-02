@@ -7,13 +7,6 @@ tags: [java]
 categories: []
 abstract: ""
 ---
-
-
-# 源代码地址：
-
-[Github](https://github.com/Landers1037/JavaMap)
-
-<!--more-->
 # 源代码地址：
 
 [Github](https://github.com/Landers1037/JavaMap)

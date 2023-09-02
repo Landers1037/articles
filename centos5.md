@@ -19,18 +19,4 @@ netstat -tunlp |grep 8888
 #查看端口的进程情况
 ```
 
-
-<!--more-->
-
-
-```bash
-lsof -i:8888
-#查看端口的占用程序
-```
-
-```bash
-netstat -tunlp |grep 8888
-#查看端口的进程情况
-```
-
 <!--more-->

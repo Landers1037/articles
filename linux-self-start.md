@@ -11,12 +11,6 @@ abstract: ""
 
 了解linux的init.d的作用，如何控制自启动脚本
 
-
-<!--more-->
-
-
-了解linux的init.d的作用，如何控制自启动脚本
-
 <!--more-->
 
 #### rc.local的作用

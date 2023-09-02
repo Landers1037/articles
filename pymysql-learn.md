@@ -14,15 +14,6 @@ abstract: ""
 使用官方提供的mysql installer进行安装，如果只是想使用数据库那么就只安装mysql server
 
 
-
-<!--more-->
-
-
-# Mysql的安装
-
-使用官方提供的mysql installer进行安装，如果只是想使用数据库那么就只安装mysql server
-
-
 <!--more-->
 常见的安装mysql错误，错误码1405
 在使用cmd的时候使用net start mysql会提示mysql服务无法启动，分析原因：

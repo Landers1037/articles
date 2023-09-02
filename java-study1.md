@@ -7,8 +7,6 @@ tags: [java,学习笔记]
 categories: []
 abstract: ""
 ---
-<code>Sorry</code>该文章暂无概述💊
-<!--more-->
 
 
 定义的java程序的时候的类名字必须和文件的名称保持一致否则后面会出现编译的错误

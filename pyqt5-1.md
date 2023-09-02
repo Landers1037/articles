@@ -7,12 +7,6 @@ tags: [pyqt5,python,学习笔记]
 categories: []
 abstract: ""
 ---
-
-
-# PyQt5图形化学习
-
-## 一个带有图标的窗口界面
-<!--more-->
 # PyQt5图形化学习
 
 ## 一个带有图标的窗口界面

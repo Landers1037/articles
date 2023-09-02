@@ -12,13 +12,6 @@ abstract: ""
 python不同读写方式的区别
 `r,w,r+,w+,rb,wb,a,a+`
 
-
-<!--more-->
-
-
-python不同读写方式的区别
-`r,w,r+,w+,rb,wb,a,a+`
-
 <!--more-->
 
 ### r 只读

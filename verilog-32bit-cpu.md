@@ -7,8 +7,6 @@ tags: [verilog,verilog学习]
 categories: []
 abstract: ""
 ---
-<code>Sorry</code>该文章暂无概述💊
-<!--more-->
 
 
 #### 利用verilog语言编写一个单周期的32位cpu处理简单的运算

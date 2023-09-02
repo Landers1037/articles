@@ -11,12 +11,6 @@ abstract: ""
 
 在**Nginx**上配置https的一个示例，涉及到多个proxy代理的配置
 
-
-<!--more-->
-
-
-在**Nginx**上配置https的一个示例，涉及到多个proxy代理的配置
-
 <!--more-->
 
 因为项目设计到前后端请求，当把项目转换为`https`后，`axios`的请求地址仍是`http`所以会被浏览器拦截

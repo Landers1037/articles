@@ -7,14 +7,6 @@ tags: [matlab]
 categories: []
 abstract: ""
 ---
-
-
-## main文件部分
-
-源代码地址 [Gitee](https://gitee.com/lrjgood/qpsk_modulation_of_matlab)
-
-
-<!--more-->
 ## main文件部分
 
 源代码地址 [Gitee](https://gitee.com/lrjgood/qpsk_modulation_of_matlab)

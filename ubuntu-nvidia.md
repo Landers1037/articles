@@ -11,12 +11,6 @@ abstract: ""
 
 # 环境ubuntu18.04
 
-## 安装nvidia显卡驱动
-<!--more-->
-
-
-# 环境ubuntu18.04
-
 ## 安装nvidia显卡驱动<!--more-->
 
 ```bash

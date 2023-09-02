@@ -11,12 +11,6 @@ abstract: ""
 
 Python面向对象编程
 
-
-<!--more-->
-
-
-Python面向对象编程
-
 <!--more-->
 
 ## 对象属性限制

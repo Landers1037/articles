@@ -7,14 +7,6 @@ tags: [aria2,下载]
 categories: []
 abstract: ""
 ---
-
-
-### Aria2
-
-aria2是新一代的下载工具，最早出现在linux平台需要使用命令行进行操作，最大的特点就是支持.torrent和magnet协议的下载，所以后来被移植到windows和mac平台，作为替代迅雷和百度网盘的下载工具。 windows平台的配置稍显麻烦，并且好看的图形界面很少，mac傻瓜式的一键配置是真的好用啊! 在github上的开源aria2项目 [https://github.com/itgoyo/Aria2](https://github.com/itgoyo/Aria2)
-
-### 
-<!--more-->
 ### Aria2
 
 aria2是新一代的下载工具，最早出现在linux平台需要使用命令行进行操作，最大的特点就是支持.torrent和magnet协议的下载，所以后来被移植到windows和mac平台，作为替代迅雷和百度网盘的下载工具。 windows平台的配置稍显麻烦，并且好看的图形界面很少，mac傻瓜式的一键配置是真的好用啊! 在github上的开源aria2项目 [https://github.com/itgoyo/Aria2](https://github.com/itgoyo/Aria2)

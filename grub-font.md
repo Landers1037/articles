@@ -17,18 +17,6 @@ abstract: ""
 sudo grub-mkfont -o name.pf2 -s=25 /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
 ```
 
-
-<!--more-->
-
-
-## 字体生成
-
-使用如下的命令可以创建用于开机启动界面的字体文件
-
-```bash
-sudo grub-mkfont -o name.pf2 -s=25 /usr/share/fonts/truetype/ubuntu/Ubuntu-R.ttf
-```
-
 <!--more-->
 
 -o  指定输出的字体文件名称

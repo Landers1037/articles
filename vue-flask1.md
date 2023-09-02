@@ -11,12 +11,6 @@ abstract: ""
 
 使用axios在vue项目中进行跨域请求
 
-
-<!--more-->
-
-
-使用axios在vue项目中进行跨域请求
-
 <!--more-->
 
 ## 依赖

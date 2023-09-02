@@ -3,15 +3,10 @@ title: shell学习笔记5
 name: shell-note5
 date: 2021-05-23 13:43:02
 id: 0
-tags: [shell]
+tags: [shell,linux]
 categories: []
 abstract: ""
 ---
-
-使用`echo`和`printf`格式化字符串 实现控制台颜色输出
-
-
-<!--more-->
 
 使用`echo`和`printf`格式化字符串 实现控制台颜色输出
 

@@ -7,8 +7,6 @@ tags: [java]
 categories: []
 abstract: ""
 ---
-<code>Sorry</code>该文章暂无概述💊
-<!--more-->
 
 
 类方法（又为静态方法）

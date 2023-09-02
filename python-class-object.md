@@ -11,12 +11,6 @@ abstract: ""
 
 Python面向对象
 
-
-<!--more-->
-
-
-Python面向对象
-
 <!--more-->
 
 ## 类的初始化

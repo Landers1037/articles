@@ -11,12 +11,6 @@ abstract: ""
 
 vue-router是vue的路由管理插件，使用vue-router可以向路由传递参数
 
-
-<!--more-->
-
-
-vue-router是vue的路由管理插件，使用vue-router可以向路由传递参数
-
 <!--more-->
 
 ## vue-router注册

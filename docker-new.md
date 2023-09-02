@@ -9,10 +9,6 @@ abstract: ""
 ---
 
 
-#### Docker容器的使用
-<!--more-->
-
-
 #### Docker容器的使用<!--more-->
 
 ##### 新建镜像

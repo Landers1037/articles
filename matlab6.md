@@ -7,14 +7,6 @@ tags: [matlab]
 categories: []
 abstract: ""
 ---
-
-
-## 题目
-
-![](/images/matlab6-1.webp)
-
-
-<!--more-->
 ## 题目
 
 ![](/images/matlab6-1.webp)

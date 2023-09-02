@@ -19,20 +19,6 @@ yum -y groupinstall "Development tools"
 yum -y install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gdbm-devel db4-devel libpcap-devel xz-devel
 ```
 
-
-<!--more-->
-
-
-**centos本身自带python2.7用于系统的环境设置**
-
-安装另外的python3版本
-
-```bash
-#安装依赖
-yum -y groupinstall "Development tools"
-yum -y install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gdbm-devel db4-devel libpcap-devel xz-devel
-```
-
 <!--more-->
 
 ```

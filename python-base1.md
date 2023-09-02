@@ -11,12 +11,6 @@ abstract: ""
 
 字符串,**list**,**tulpe**,**dict**的处理
 
-
-<!--more-->
-
-
-字符串,**list**,**tulpe**,**dict**的处理
-
 <!--more-->
 
 ## 字符串

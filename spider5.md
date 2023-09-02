@@ -11,12 +11,6 @@ abstract: ""
 
 # 环境：python3.7
 
-github源代码地址：[github](https://github.com/Landers1037/PySpider/tree/master/%E4%B8%96%E7%95%8C500%E5%BC%BA%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D/rank)
-<!--more-->
-
-
-# 环境：python3.7
-
 github源代码地址：[github](https://github.com/Landers1037/PySpider/tree/master/%E4%B8%96%E7%95%8C500%E5%BC%BA%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D/rank)<!--more-->
 
 ## 蜘蛛部分

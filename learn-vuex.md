@@ -11,12 +11,6 @@ abstract: ""
 
 Vuex插件的使用
 
-
-<!--more-->
-
-
-Vuex插件的使用
-
 <!--more-->
 
 ## Vuex

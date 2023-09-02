@@ -7,8 +7,6 @@ tags: [mips汇编学习,verilog,verilog学习]
 categories: []
 abstract: ""
 ---
-<code>Sorry</code>该文章暂无概述💊
-<!--more-->
 
 
 #### 使用mips语言将底层的汇编指令输入到cpu的内部

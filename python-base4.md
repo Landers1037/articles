@@ -11,12 +11,6 @@ abstract: ""
 
 函数基础
 
-
-<!--more-->
-
-
-函数基础
-
 <!--more-->
 
 ## 内置函数map，reduce

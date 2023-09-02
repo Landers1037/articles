@@ -11,12 +11,6 @@ abstract: ""
 
 `wordpress的后台模块屏蔽代码 在后台php语言的fuction.php里添加代码`
 
-`屏蔽左侧菜单`
-<!--more-->
-
-
-`wordpress的后台模块屏蔽代码 在后台php语言的fuction.php里添加代码`
-
 `屏蔽左侧菜单`<!--more-->
 
     function remove_menus() {

@@ -16,17 +16,6 @@ abstract: ""
 网页左侧的信息栏	`base-profile.ejs`
 网页底部标题	`base-footer.ejs`
 网页侧边栏	  `base-sidebar.ejs`
-
-<!--more-->
-
-
-# 感谢主题的设计者
-
-针对主题的模板文件修改，找到layout下的ejs文件
-
-网页左侧的信息栏	`base-profile.ejs`
-网页底部标题	`base-footer.ejs`
-网页侧边栏	  `base-sidebar.ejs`
 <!--more-->
 
 ## 在信息栏添加自己喜欢的文字

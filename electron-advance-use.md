@@ -11,12 +11,6 @@ abstract: ""
 
 Electron开发的高级使用方法
 
-
-<!--more-->
-
-
-Electron开发的高级使用方法
-
 <!--more-->
 
 ## Builder配置

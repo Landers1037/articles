@@ -11,12 +11,6 @@ abstract: ""
 
 使用sqlalchemy的ORM来操作数据库
 
-
-<!--more-->
-
-
-使用sqlalchemy的ORM来操作数据库
-
 <!--more-->
 
 安装sqlalchemy

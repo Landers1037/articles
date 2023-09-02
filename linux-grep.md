@@ -11,12 +11,6 @@ abstract: ""
 
 Linux的`grep`指令的使用
 
-
-<!--more-->
-
-
-Linux的`grep`指令的使用
-
 <!--more-->
 
 ### grep

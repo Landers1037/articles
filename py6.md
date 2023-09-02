@@ -9,10 +9,6 @@ abstract: ""
 ---
 
 
-# pandas基础
-<!--more-->
-
-
 # pandas基础<!--more-->
 
 ## pandas的loc函数

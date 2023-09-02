@@ -11,12 +11,6 @@ abstract: ""
 
 Linux的awk指令模式
 
-
-<!--more-->
-
-
-Linux的awk指令模式
-
 <!--more-->
 
 ## 模式

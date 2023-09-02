@@ -11,12 +11,6 @@ abstract: ""
 
 不在html创建表单，使用js动态创建传输post数据
 
-
-<!--more-->
-
-
-不在html创建表单，使用js动态创建传输post数据
-
 <!--more-->
 
 ### html结构

@@ -23,24 +23,6 @@ rm test
 rm -r test #删除test以及下面的子目录
 ```
 
-
-<!--more-->
-
-
-# CentOS测试
-
-## 文件夹
-
-```bash
-#生成文件夹test
-mkdir test
-#生成特定目录下文件夹
-mkdir /home/test
-#删除
-rm test
-rm -r test #删除test以及下面的子目录
-```
-
 <!--more-->
 
 ## 文件

@@ -2,10 +2,12 @@
 title: go内存泄漏分析
 name: go-memory-leak
 date: 2022-07-13 14:29:51
+id: 0
 tags: [go]
 categories: [go]
-abstract: 
+abstract: ""
 ---
+
 Go程序的内存泄漏分析
 
 排查工具：`pprof`
@@ -84,6 +86,7 @@ func exampleSlice(sl []int) {
 ![img](/images/go-leak-example-4.jpg)
 
 `sl`切片的内存被正确gc回收
+
 
 ### string导致的泄漏
 

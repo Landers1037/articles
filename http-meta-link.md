@@ -11,12 +11,6 @@ abstract: ""
 
 **HTML**的`meta`元标记和`link`链接的总结
 
-
-<!--more-->
-
-
-**HTML**的`meta`元标记和`link`链接的总结
-
 <!--more-->
 
 ## meta
