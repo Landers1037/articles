@@ -85,8 +85,6 @@ func exampleSlice(sl []int) {
 
 `sl`切片的内存被正确gc回收
 
-### 
-
 ### string导致的泄漏
 
 `string`可以看作只读的没有`cap`属性`slice`切片
